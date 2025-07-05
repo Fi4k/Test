@@ -1,0 +1,64 @@
+Privacy Policy for Baked
+Last Updated: July 5, 2025
+
+This Privacy Policy describes how we collect, use, and disclose your information when you use our mobile application, Baked app.
+
+By using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the App.
+
+1. Information We Collect
+We may collect several types of information from and about users of our App, including:
+
+a. Information You Provide Directly to Us
+Account Information: If you create an account, we may collect your name, email address, username, password, and other registration information.
+
+Profile Information: Information you choose to provide for your profile, such as a profile picture, bio, or preferences.
+
+Communications: Records of your correspondence with us, such as customer support inquiries or feedback.
+
+b. Information Collected Automatically (Usage Data)
+When you access and use the App, we may automatically collect certain information, including:
+
+Device Information: Information about your mobile device, such as its unique device identifier, IP address, operating system, mobile network information, and device type.
+
+Usage Details: Details of your access to and use of the App, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the App.
+
+Analytics Information: Data collected through third-party analytics tools (e.g., Google Analytics for Firebase) that helps us measure traffic and usage trends for the App. This data is typically aggregated and anonymized.
+
+Crash Data: Information about crashes or errors in the App, which helps us diagnose and fix problems.
+
+c. Information from Third-Party Sources
+We may receive information about you from third-party sources, such as:
+
+Social Media Services: If you link your App account to a third-party social media service (e.g., Facebook, Google), we may receive information from that service (e.g., your public profile information).
+
+2. How We Use Your Information
+We use the information we collect for various purposes, including to:
+
+Provide, operate, and maintain our App.
+
+Improve, personalize, and expand our App.
+
+Understand and analyze how you use our App.
+
+Develop new products, services, features, and functionality.
+
+Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the App, and for marketing and promotional purposes.
+
+Process your transactions and manage your orders.
+
+Send you push notifications (if you opt-in).
+
+Find and prevent fraud.
+
+Monitor and analyze trends, usage, and activities in connection with our App.
+
+Comply with legal obligations.
+
+3. How We Share Your Information
+We may share your information in the following situations:
+
+With Service Providers: We may share your information with third-party vendors, service providers, contractors, or agents who perform services for us or on our behalf and require access to such information to do that work (e.g., payment processing, data analysis, email delivery, hosting services, customer service).
+
+For Business Transfers: We may share or transfer your personal information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+With Affiliates: We may share your information with our affiliates, in which case we
